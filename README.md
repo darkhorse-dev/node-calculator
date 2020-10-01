@@ -1,4 +1,4 @@
-# Node calculator
+# Node.js calculator
 
 ## Usage: 
 ### Via command line:
